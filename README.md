@@ -1,19 +1,21 @@
-## Hi there 👋
+# Cauã Ribas Devitte
 
-Hi! I'm Cauã Ribas, a passionate web development enthusiast and Computer Science student at [Univali](https://www.univali.br/) . For the past two years, I have been deeply immersed in studying programming, with a special focus on web development. I’m constantly expanding my skill set through personal projects that reflect my dedication and drive to grow professionally. My passion for technology pushes me to always improve, and I'm excited about the opportunities that lie ahead in my career. If you'd like to know more about me, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/cauã-ribas/).
+I'm a **backend developer** focused on Node.js and TypeScript. I build APIs, integrations, and work with databases and cloud services.
 
-## Main Skills 🌌
+I've been studying software development for 5 years, and I have 2 years of experience as a professional developer, I'm currently studying Computer Science at [Univali](https://www.univali.br/). 
 
-[![Main Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,firebase,mongodb,postgres,prisma,postman,html,css)](https://skillicons.dev)
+### My Stack
 
-## Other Skills 🪐
+[![Main Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,firebase,postgres)](https://skillicons.dev)
 
-[![Other skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,jest,express,mysql,sqlite,vscode)](https://skillicons.dev)
+### My Links 
 
-## My Stats 🔥
+[LinkedIn](https://www.linkedin.com/in/cauã-ribas/)
+
+### My Stats
 
 <div>
-  <a href="https://github.com/cauaribas/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaribas&theme=tokyonight&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaribas&layout=compact&theme=tokyonight">
+  <a href="https://github.com/cauaribasdev/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaribasdev&theme=tokyonight&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaribasdev&layout=compact&theme=tokyonight">
 </div> 
