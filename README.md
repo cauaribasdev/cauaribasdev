@@ -11,11 +11,3 @@ I've been studying software development for 5 years, and I have 2 years of exper
 ### My Links 
 
 [LinkedIn](https://www.linkedin.com/in/cauã-ribas/)
-
-### My Stats
-
-<div>
-  <a href="https://github.com/cauaribasdev/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaribasdev&theme=tokyonight&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaribasdev&layout=compact&theme=tokyonight">
-</div> 
